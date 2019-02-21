@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">K003_ListAdapter</string>
+    <string name="content_description_image_of_photo_post">Image of photo post</string>
+    <string name="refresh">Refresh</string>
+</resources>
